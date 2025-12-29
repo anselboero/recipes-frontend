@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-29T10:53:10.107+01:00","modified":"2025-12-29T11:48:08.426+01:00","cssclasses":"","socialImage":"[[torta-di-fichi-1200x675.avif]]"}
+{"publish":true,"created":"2025-12-29T10:53:10.107+01:00","modified":"2025-12-29T11:55:30.531+01:00","cssclasses":"","socialImage":"[[torta-di-fichi-1200x675.jpg]]"}
 ---
 
-![[torta-di-fichi-1200x675.avif]]
+![[Media/Immagini/torta-di-fichi-1200x675.jpg]]
 ## ingredienti
 
 - 3 Uova
