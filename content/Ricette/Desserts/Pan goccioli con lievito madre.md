@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-29T13:13:32.206+01:00","modified":"2025-12-29T13:43:37.767+01:00","cssclasses":"","socialImage":"[[ricetta-pan-goccioli-con-lievito-madre-peccato-di-gola.jpg]]"}
+{"publish":true,"created":"2025-12-29T13:13:32.206+01:00","modified":"2025-12-29T13:52:00.531+01:00","cssclasses":"","socialImage":"[[ricetta-pan-goccioli-con-lievito-madre-peccato-di-gola.jpg]]"}
 ---
 
 ![[Media/Immagini/ricetta-pan-goccioli-con-lievito-madre-peccato-di-gola.jpg|250]]
@@ -21,3 +21,4 @@
 - intiepidite leggermente il latte e poi aggiungetelo al lievito madre e stemperate quest’ultimo fino a non lasciare residui. Aggiungete poi l’uovo leggermente battuto, lo zucchero e poi aggiungete 2/3 di farina, date una breve mescolata e poi versate il composto sulla spianatoia e continuate ad impastare aggiungendo poi il burro morbido e la farina, una presa alla volta, fin quando quella precedente non si sarà completamente assorbita. Per ultimo il sale e le gocce di cioccolata.
 - Riponete l’impasto in un recipiente e lasciatelo lievitare tutta la notte coprendolo con pellicola o un canovaccio e tenendolo sotto coperta.
 - Il giorno dopo staccate delle palline di circa 70 g l’una, date una piega e poi lasciate lievitare ancora 3 ore, dopodiché cuocete i pan goccioli con lievito madre in forno caldo a 180° per 10 – 15 minuti, in base alla potenza del vostro forno (il mio li ha cotti in 12 minuti e si sono subito scuriti)
+---
