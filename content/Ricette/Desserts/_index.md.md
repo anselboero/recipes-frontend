@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-12-29T12:17:58.642+01:00","modified":"2025-12-29T12:18:19.387+01:00","cssclasses":""}
+{"publish":true,"title":"Desserts","created":"2025-12-29T12:16:04.711+01:00","modified":"2025-12-29T12:17:43.029+01:00","cssclasses":""}
 ---
-
 
 | Ricetta                                                                                                            | Foto                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
@@ -22,3 +21,4 @@
 | [[Ricette/Desserts/Torta di mele - Iginio Massari\|Torta di mele - Iginio Massari]]                             | ![[Media/Immagini/Torta-di-mele-thumb.jpg\|150]]                                            |
 | [[Ricette/Desserts/Torta di pesche rovesciata\|Torta di pesche rovesciata]]                                     | ![[Media/Immagini/torta-di-pesche-rovesciata-08082025-buttalapasta.it_.jpg\|150]]           |
 | [[Ricette/Desserts/Torta margherita - Iginio Massari\|Torta margherita - Iginio Massari]]                       | ![[Media/Immagini/Torta-Margherita-Massari-oriz-def-720x480.jpg\|150]]                      |
+
