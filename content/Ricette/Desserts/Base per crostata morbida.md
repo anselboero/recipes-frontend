@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-29T12:19:27.358+01:00","modified":"2025-12-29T13:20:43.539+01:00","cssclasses":"","socialImage":"[[base-torta-furba-vert.jpg]]"}
+{"publish":true,"created":"2025-12-29T12:19:27.358+01:00","modified":"2025-12-29T13:33:43.978+01:00","cssclasses":"","socialImage":"[[base-torta-furba-vert.jpg]]"}
 ---
 
-![[Media/Immagini/base-torta-furba-vert.jpg]]
+![[Media/Immagini/base-torta-furba-vert.jpg|250]]
 
 # INGREDIENTI (tortiera diametro 28):
 
