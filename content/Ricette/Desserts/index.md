@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Desserts","created":"2025-12-29T12:16:04.711+01:00","modified":"2025-12-29T12:17:43.029+01:00","cssclasses":""}
+{"publish":true,"title":"Desserts","created":"2025-12-29T12:16:04.711+01:00","modified":"2025-12-29T13:48:41.572+01:00","cssclasses":""}
 ---
 
 | Ricetta                                                                                                            | Foto                                                                                        |
