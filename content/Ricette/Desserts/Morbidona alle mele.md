@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-28T10:21:46.027+01:00","modified":"2025-12-29T13:21:12.757+01:00","cssclasses":"","socialImage":"[[Morbidona.jpg]]"}
+{"publish":true,"created":"2025-12-28T10:21:46.027+01:00","modified":"2025-12-29T13:43:34.990+01:00","cssclasses":"","socialImage":"[[Morbidona.jpg]]"}
 ---
 
 
-![[Media/Immagini/Morbidona.jpg]]
+![[Media/Immagini/Morbidona.jpg|250]]
 # Ingredienti (20cm di diametro):
 
 - 200g di farina 00

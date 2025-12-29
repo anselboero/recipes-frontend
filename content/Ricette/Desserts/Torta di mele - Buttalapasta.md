@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-29T10:15:07.488+01:00","modified":"2025-12-29T13:21:49.317+01:00","cssclasses":"","socialImage":"[[Torta-di-mele-leggerissima-20251016-ButtalaPasta.it-.jpg]]"}
+{"publish":true,"created":"2025-12-29T10:15:07.488+01:00","modified":"2025-12-29T13:43:52.269+01:00","cssclasses":"","socialImage":"[[Torta-di-mele-leggerissima-20251016-ButtalaPasta.it-.jpg]]"}
 ---
 
-![[Media/Immagini/Torta-di-mele-leggerissima-20251016-ButtalaPasta.it-.jpg]]
+![[Media/Immagini/Torta-di-mele-leggerissima-20251016-ButtalaPasta.it-.jpg|250]]
 
 # Ingredienti
 - *350 g di farina,*

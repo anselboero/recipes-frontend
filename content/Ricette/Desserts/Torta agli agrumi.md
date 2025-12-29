@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-29T10:18:21.961+01:00","modified":"2025-12-29T13:21:26.256+01:00","cssclasses":"","socialImage":"[[torta-agrumi-buttalapasta.it-1062025.jpg]]"}
+{"publish":true,"created":"2025-12-29T10:18:21.961+01:00","modified":"2025-12-29T13:43:41.045+01:00","cssclasses":"","socialImage":"[[torta-agrumi-buttalapasta.it-1062025.jpg]]"}
 ---
 
 
-![[Media/Immagini/torta-agrumi-buttalapasta.it-1062025.jpg]]
+![[Media/Immagini/torta-agrumi-buttalapasta.it-1062025.jpg|250]]
 
 # Ingredienti per 6 persone
 

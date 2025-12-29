@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-29T10:02:46.409+01:00","modified":"2025-12-29T13:21:57.055+01:00","cssclasses":"","socialImage":"[[torta-di-mele-arancia-e-mascarpone-1-720x480.jpeg]]"}
+{"publish":true,"created":"2025-12-29T10:02:46.409+01:00","modified":"2025-12-29T13:43:54.661+01:00","cssclasses":"","socialImage":"[[torta-di-mele-arancia-e-mascarpone-1-720x480.jpeg]]"}
 ---
 
 
-![[Media/Immagini/torta-di-mele-arancia-e-mascarpone-1-720x480.jpeg]]
+![[Media/Immagini/torta-di-mele-arancia-e-mascarpone-1-720x480.jpeg|250]]
 
 
 

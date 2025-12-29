@@ -1,10 +1,10 @@
 ---
-{"publish":true,"created":"2025-12-29T10:24:07.519+01:00","modified":"2025-12-29T13:21:07.042+01:00","cssclasses":"","socialImage":"[[CROSTATA-MELE-e-Crema-alla-Vaniglia-720x480.jpg]]"}
+{"publish":true,"created":"2025-12-29T10:24:07.519+01:00","modified":"2025-12-29T13:43:30.791+01:00","cssclasses":"","socialImage":"[[CROSTATA-MELE-e-Crema-alla-Vaniglia-720x480.jpg]]"}
 ---
 
 
 
-![[Media/Immagini/CROSTATA-MELE-e-Crema-alla-Vaniglia-720x480.jpg]]
+![[Media/Immagini/CROSTATA-MELE-e-Crema-alla-Vaniglia-720x480.jpg|250]]
 
 # Ingredienti
 

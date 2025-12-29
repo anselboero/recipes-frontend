@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-29T13:13:32.206+01:00","modified":"2025-12-29T13:21:21.734+01:00","cssclasses":"","socialImage":"[[ricetta-pan-goccioli-con-lievito-madre-peccato-di-gola.jpg]]"}
+{"publish":true,"created":"2025-12-29T13:13:32.206+01:00","modified":"2025-12-29T13:43:37.767+01:00","cssclasses":"","socialImage":"[[ricetta-pan-goccioli-con-lievito-madre-peccato-di-gola.jpg]]"}
 ---
 
-![[Media/Immagini/ricetta-pan-goccioli-con-lievito-madre-peccato-di-gola.jpg]]
+![[Media/Immagini/ricetta-pan-goccioli-con-lievito-madre-peccato-di-gola.jpg|250]]
 # Ingredienti per 18 – 20 pezzi:
 
 - 250 g di farina 0

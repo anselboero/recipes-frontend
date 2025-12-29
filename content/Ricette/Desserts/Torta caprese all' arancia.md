@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-29T12:13:48.292+01:00","modified":"2025-12-29T13:21:38.653+01:00","cssclasses":"","socialImage":"[[torta-caprese-all-arancia3-720x480.jpg]]"}
+{"publish":true,"created":"2025-12-29T12:13:48.292+01:00","modified":"2025-12-29T13:43:46.840+01:00","cssclasses":"","socialImage":"[[torta-caprese-all-arancia3-720x480.jpg]]"}
 ---
 
 
-![[Media/Immagini/torta-caprese-all-arancia3-720x480.jpg]]
+![[Media/Immagini/torta-caprese-all-arancia3-720x480.jpg|250]]
 
 # Ingredienti
 

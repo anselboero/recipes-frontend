@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-28T10:28:37.328+01:00","modified":"2025-12-29T13:21:02.224+01:00","cssclasses":"","socialImage":"[[CROSTATA-AMALFITANA-Ricetta-dolce-cremoso-33.jpg]]"}
+{"publish":true,"created":"2025-12-28T10:28:37.328+01:00","modified":"2025-12-29T13:43:28.297+01:00","cssclasses":"","socialImage":"[[CROSTATA-AMALFITANA-Ricetta-dolce-cremoso-33.jpg]]"}
 ---
 
-![[Media/Immagini/CROSTATA-AMALFITANA-Ricetta-dolce-cremoso-33.jpg]]
+![[Media/Immagini/CROSTATA-AMALFITANA-Ricetta-dolce-cremoso-33.jpg|250]]
 # Ingredienti
 ## Ingredienti per la frolla
 

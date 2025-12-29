@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-29T10:21:29.311+01:00","modified":"2025-12-29T13:22:02.541+01:00","cssclasses":"","socialImage":"[[Torta-di-mele-thumb.jpg]]"}
+{"publish":true,"created":"2025-12-29T10:21:29.311+01:00","modified":"2025-12-29T13:43:57.067+01:00","cssclasses":"","socialImage":"[[Torta-di-mele-thumb.jpg]]"}
 ---
 
-![[Media/Immagini/Torta-di-mele-thumb.jpg]]
+![[Media/Immagini/Torta-di-mele-thumb.jpg|250]]
 
 # Ingredienti
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-29T13:16:57.698+01:00","modified":"2025-12-29T13:35:37.422+01:00","cssclasses":"","socialImage":"[[biscotti-friggitrice-aria.jpeg]]"}
+{"publish":true,"created":"2025-12-29T13:16:57.698+01:00","modified":"2025-12-29T13:43:20.021+01:00","cssclasses":"","socialImage":"[[biscotti-friggitrice-aria.jpeg]]"}
 ---
 
 ![[Media/Immagini/biscotti-friggitrice-aria.jpeg|250]]

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-29T12:19:27.358+01:00","modified":"2025-12-29T13:33:43.978+01:00","cssclasses":"","socialImage":"[[base-torta-furba-vert.jpg]]"}
+{"publish":true,"created":"2025-12-29T12:19:27.358+01:00","modified":"2025-12-29T13:43:06.868+01:00","cssclasses":"","socialImage":"[[base-torta-furba-vert.jpg]]"}
 ---
 
 ![[Media/Immagini/base-torta-furba-vert.jpg|250]]

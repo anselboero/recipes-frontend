@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-29T10:28:05.786+01:00","modified":"2025-12-29T13:21:34.048+01:00","cssclasses":"","socialImage":"[[caprese-massari-oriz-def-720x480.jpg]]"}
+{"publish":true,"created":"2025-12-29T10:28:05.786+01:00","modified":"2025-12-29T13:43:44.027+01:00","cssclasses":"","socialImage":"[[caprese-massari-oriz-def-720x480.jpg]]"}
 ---
 
 
-![[Media/Immagini/caprese-massari-oriz-def-720x480.jpg]]
+![[Media/Immagini/caprese-massari-oriz-def-720x480.jpg|250]]
 # Ingredienti
 
 Dosi variate per porzioni

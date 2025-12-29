@@ -1,10 +1,10 @@
 ---
-{"publish":true,"created":"2025-12-29T10:07:44.453+01:00","modified":"2025-12-29T13:20:51.708+01:00","cssclasses":"","socialImage":"[[biscotti-all-arancia2-720x480.jpg]]"}
+{"publish":true,"created":"2025-12-29T10:07:44.453+01:00","modified":"2025-12-29T13:43:22.628+01:00","cssclasses":"","socialImage":"[[biscotti-all-arancia2-720x480.jpg]]"}
 ---
 
 
 
-![[Media/Immagini/biscotti-all-arancia2-720x480.jpg]]
+![[Media/Immagini/biscotti-all-arancia2-720x480.jpg|250]]
 
 # Ingredienti
 

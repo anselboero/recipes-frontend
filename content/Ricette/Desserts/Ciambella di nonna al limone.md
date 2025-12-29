@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-28T09:55:05.161+01:00","modified":"2025-12-29T13:20:56.670+01:00","cssclasses":"","socialImage":"[[ciambella-di-nonna-al-limone-dolce-ricetta-facilissima-720x573.jpg]]"}
+{"publish":true,"created":"2025-12-28T09:55:05.161+01:00","modified":"2025-12-29T13:43:25.948+01:00","cssclasses":"","socialImage":"[[ciambella-di-nonna-al-limone-dolce-ricetta-facilissima-720x573.jpg]]"}
 ---
 
-![[Media/Immagini/ciambella-di-nonna-al-limone-dolce-ricetta-facilissima-720x573.jpg]]
+![[Media/Immagini/ciambella-di-nonna-al-limone-dolce-ricetta-facilissima-720x573.jpg|250]]
 
 ## INGREDIENTI:
 

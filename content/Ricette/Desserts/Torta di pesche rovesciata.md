@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-29T11:01:08.165+01:00","modified":"2025-12-29T13:22:07.822+01:00","cssclasses":"","socialImage":"[[torta-di-pesche-rovesciata-08082025-buttalapasta.it_.jpg]]"}
+{"publish":true,"created":"2025-12-29T11:01:08.165+01:00","modified":"2025-12-29T13:43:59.628+01:00","cssclasses":"","socialImage":"[[torta-di-pesche-rovesciata-08082025-buttalapasta.it_.jpg]]"}
 ---
 
-![[Media/Immagini/torta-di-pesche-rovesciata-08082025-buttalapasta.it_.jpg]]
+![[Media/Immagini/torta-di-pesche-rovesciata-08082025-buttalapasta.it_.jpg|250]]
 
 # Ingredienti per 8 persone
 

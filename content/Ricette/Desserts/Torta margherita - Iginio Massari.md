@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-29T10:44:10.518+01:00","modified":"2025-12-29T13:22:24.970+01:00","cssclasses":"","socialImage":"[[Torta-Margherita-Massari-oriz-def-720x480.jpg]]"}
+{"publish":true,"created":"2025-12-29T10:44:10.518+01:00","modified":"2025-12-29T13:44:02.285+01:00","cssclasses":"","socialImage":"[[Torta-Margherita-Massari-oriz-def-720x480.jpg]]"}
 ---
 
-![[Media/Immagini/Torta-Margherita-Massari-oriz-def-720x480.jpg]]
+![[Media/Immagini/Torta-Margherita-Massari-oriz-def-720x480.jpg|250]]
 
 ## Ingredienti
 
