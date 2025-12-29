@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+{"publish":true,"title":"Ricette","created":"2025-12-29T11:48:18.577+01:00","modified":"2025-12-29T11:48:37.935+01:00","cssclasses":""}
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Cerca per portata
+- [[Categorie/Desserts]]
